@@ -1,0 +1,1 @@
+This directory expands upon the code in "earth_test" by adding more planets in our local solar system. Furthermore, it adds on components to take into account the gravitational interactions between all planets.

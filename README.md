@@ -15,3 +15,5 @@ euler - a program using Euler's Method of Integration instead of the Yoshida Met
 solar_system - expand the Yoshida code to account for a multi-body system.
 
 tau_ceti - directory containing the main simulation files for Tau Ceti.
+
+![Fail](https://github.com/brady-ryan/ast390_final_project/blob/main/tau_ceti.png)
